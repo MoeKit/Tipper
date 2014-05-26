@@ -1,1 +1,1 @@
-module.exports = require('jquery.fs.tipper.js');
+module.exports = require('./jquery.fs.tipper.js');
