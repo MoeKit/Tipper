@@ -5,7 +5,9 @@
  * 
  * Copyright 2014 Ben Plum; MIT Licensed 
  */ 
-
+var jQuery = require('jquery');
+require.async('./jquery.fs.tipper.css');
+module.exports = jQuery;
 ;(function ($, window) {
 	"use strict";
 

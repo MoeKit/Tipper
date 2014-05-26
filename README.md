@@ -1,5 +1,6 @@
-<a href="http://gruntjs.com" target="_blank"><img src="https://cdn.gruntjs.com/builtwith.png" alt="Built with Grunt"></a> 
-# Tipper 
+# Tipper
+---
+<a href="http://gruntjs.com" target="_blank"><img src="https://cdn.gruntjs.com/builtwith.png" alt="Built with Grunt"></a>
 
 A jQuery plugin for simple tooltips. Part of the formstone library. 
 
